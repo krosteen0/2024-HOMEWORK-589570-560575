@@ -1,0 +1,11 @@
+Stanze:entrata,corridoio,laboratorio,N11,mensa,sgabuzzino,parco
+Magica:laboratorio
+Buia:sgabuzzino torcia 
+Bloccata:parco sud chiave
+Inizio:entrata
+Vincente:N11
+Mago:entrata Houdini Buongiornissimo! torcia
+Cane:parco Terry BauBau!
+Strega:corridoio Aghata Eccomi!
+Attrezzi:osso 2 mensa,chiave 2 sgabuzzino, fotocamera 2 laboratorio
+Uscite:entrata sud parco,parco nord entrata,entrata est corridoio,corridoio ovest entrata,entrata ovest mensa, mensa est entrata,mensa sud sgabuzzino,sgabuzzino nord mensa,corridoio sud laboratorio,laboratorio nord corridoio,sgabuzzino est parco,parco ovest sgabuzzino,parco est laboratorio,laboratorio ovest parco,parco sud N11, N11 nord parco
